@@ -1,2 +1,3 @@
-# Anass
-This is my Second Git Repository
+Full Stack Web Developer
+MERN Stack Specialist
+Always Learning New Technologies
